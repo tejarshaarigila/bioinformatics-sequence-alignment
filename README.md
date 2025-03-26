@@ -27,14 +27,14 @@ This repository contains Python implementations of two classical sequence alignm
 To perform global alignment, run the following command:
 
 ```bash
-python AlignGlobal.py <sequence_file1> <sequence_file2>
+python AlignGlobal.py <sequence_file1.fa> <sequence_file2.fa>
 ```
 
 ### Local Alignment (Smith-Waterman)
 To perform local alignment, run the following command:
 
 ```bash
-python AlignLocal.py <sequence_file1> <sequence_file2>
+python AlignLocal.py <sequence_file1.fa> <sequence_file2.fa>
 ```
 
 ## Input Format
